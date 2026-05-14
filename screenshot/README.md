@@ -11,8 +11,7 @@ A simple technical portfolio project demonstrating how AI tools can assist SQL w
 
 ## Tools Used
 
-- ChatGPT
-- Claude
+- ChatGPT/Claude
 - VS Code
 - GitHub
 - SQL
