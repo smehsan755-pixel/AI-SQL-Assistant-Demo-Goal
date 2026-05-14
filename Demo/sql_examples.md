@@ -9,10 +9,9 @@ A simple technical portfolio project demonstrating how AI tools can assist SQL w
 - SQL optimization examples
 - Developer-focused documentation
 
-## Tools Used
+## Tools Needed
 
-- ChatGPT
-- Claude
+- ChatGPT/Claude
 - VS Code
 - GitHub
 - SQL
